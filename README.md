@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Asbjørn 👋
 
-<!--
-**Theaidable/Theaidable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Multimedia Designer and Computer Science student from Denmark with a passion for game development, gameplay systems, sound design, and user experience.
 
-Here are some ideas to get you started:
+Currently working with Unity, C#, MonoGame, SQL, React Native, and game-focused software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I enjoy creating immersive experiences through gameplay, atmosphere, and storytelling.
+My background combines programming, design, sound design, and project collaboration, allowing me to approach development from both a technical and creative perspective.
+
+I especially enjoy working on:
+- Gameplay systems
+- UI/UX
+- Narrative experiences
+- Audio and atmosphere
+- Team-based development
+
+## Tech & Tools
+
+- Unity
+- C#
+- MonoGame
+- SQL
+- React Native & Expo
+- JavaScript / TypeScript
+- Git & GitHub
+- Reaper
+- Blender
+- Figma
+
+## Currently Working On
+
+- Expanding my game development portfolio
+- Improving my gameplay programming skills
+- Learning more about software architecture & design patterns
+- Developing narrative-focused game projects
