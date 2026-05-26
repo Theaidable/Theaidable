@@ -1,6 +1,6 @@
 # Hi, I'm Asbjørn 👋
 
-I'm a Multimedia Designer and Computer Science student from Denmark with a passion for game development, gameplay systems, sound design, and user experience.
+I'm a Computer Science student from Denmark with a passion for game development, gameplay systems, sound design, and user experience.
 
 Currently working with Unity, C#, MonoGame, SQL, React Native, and game-focused software development.
 
