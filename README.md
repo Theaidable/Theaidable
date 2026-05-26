@@ -27,7 +27,6 @@ I especially enjoy working on:
 - Git & GitHub
 - Reaper
 - Blender
-- Figma
 
 ## Currently Working On
 
